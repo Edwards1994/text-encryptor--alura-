@@ -1,2 +1,2 @@
-# text-encryptor-alura
-Challenge Oracle ALURA LATAM
+# text-encryptor-alura-oracle
+Challenge Oracle ALURA LATAM ORACLE
